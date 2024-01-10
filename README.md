@@ -11,7 +11,7 @@ Passionate and ambitious Computer Science student. With a deep-rooted love for t
 ## :computer:Skills
 - **HTML/CSS** -   :white_large_square::white_large_square::white_large_square::white_square_button::white_square_button:
 - **React** -      :white_large_square::white_large_square::white_square_button::white_square_button::white_square_button:
-- **JavaScript** - :white_large_square::white_square_button::white_square_button::white_square_button::white_square_button:
-- **Java** -        :white_large_square::white_square_button::white_square_button::white_square_button::white_square_button:
-- **C++** -        :white_large_square::white_square_button::white_square_button::white_square_button::white_square_button:
+- **JavaScript** - :white_large_square::white_large_square::white_large_square::white_square_button::white_square_button:
+- **Java** -        :white_large_square: :white_large_square::white_square_button::white_square_button::white_square_button:
+- **C++** -        :white_large_square::white_large_square::white_square_button::white_square_button::white_square_button:
 - **Python** -     :white_large_square::white_large_square::white_large_square::white_square_button::white_square_button:
